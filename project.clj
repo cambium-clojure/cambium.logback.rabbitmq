@@ -1,9 +1,9 @@
-(defproject cambium/cambium.logback.rabbitmq "0.4.0"
+(defproject cambium/cambium.logback.rabbitmq "0.4.1-SNAPSHOT"
   :description "RabbitMQ appender for Logback"
   :url "https://github.com/cambium-clojure/cambium.logback.rabbitmq"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[cambium/cambium.logback.core "0.4.0"]
+  :dependencies [[cambium/cambium.logback.core "0.4.1"]
                  [com.rabbitmq/amqp-client     "4.2.0"]]
   :java-source-paths ["java-src"]
   :javac-options ["-target" "1.6" "-source" "1.6" "-Xlint:-options"]

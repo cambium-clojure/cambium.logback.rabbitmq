@@ -1,5 +1,10 @@
 # cambium.logback.rabbitmq - TODO and Change Log
 
+## [WIP] 0.4.1 / 2017-September-??
+
+- [TODO] Update RabbitMQ SDK dependency to 5.0.0
+
+
 ## 0.4.0 / 2017-September-11
 
 - Inherited closed-source private impl
