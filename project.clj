@@ -4,7 +4,7 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[cambium/cambium.logback.core "0.4.1"]
-                 [com.rabbitmq/amqp-client     "4.2.0"]]
+                 [com.rabbitmq/amqp-client     "5.0.0"]]
   :java-source-paths ["java-src"]
   :javac-options ["-target" "1.6" "-source" "1.6" "-Xlint:-options"]
   :global-vars {*warn-on-reflection* true
