@@ -1,4 +1,4 @@
-(defproject cambium/cambium.logback.rabbitmq "0.4.1"
+(defproject cambium/cambium.logback.rabbitmq "0.4.2-SNAPSHOT"
   :description "RabbitMQ appender for Logback"
   :url "https://github.com/cambium-clojure/cambium.logback.rabbitmq"
   :license {:name "Eclipse Public License"

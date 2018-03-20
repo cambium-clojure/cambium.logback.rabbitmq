@@ -1,5 +1,11 @@
 # cambium.logback.rabbitmq - TODO and Change Log
 
+## [WIP] 0.4.2 / 2018-March-??
+
+- [Todo] Update cambium.logback.core version to `0.4.2`
+- [Todo] Update RabbitMQ SDK version to `5.2.0`
+
+
 ## 0.4.1 / 2017-October-26
 
 - Update RabbitMQ SDK version to 5.0.0
