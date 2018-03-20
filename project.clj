@@ -3,7 +3,7 @@
   :url "https://github.com/cambium-clojure/cambium.logback.rabbitmq"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[cambium/cambium.logback.core "0.4.1"]
+  :dependencies [[cambium/cambium.logback.core "0.4.2-SNAPSHOT"]
                  [com.rabbitmq/amqp-client     "5.0.0"]]
   :java-source-paths ["java-src"]
   :javac-options ["-target" "1.6" "-source" "1.6" "-Xlint:-options"]
