@@ -4,6 +4,9 @@
 
 - Update cambium.logback.core version to `0.4.2`
   - [Todo] Use GA version
+- Update dev dependency versions
+  - `cambium/cambium.core` to `0.9.2` (TODO: Use GA version)
+  - `cambium/cambium.codec-simple` to `0.9.2` (TODO: Use GA version)
 - [Todo] Update RabbitMQ SDK version to `5.2.0`
 
 
