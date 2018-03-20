@@ -7,7 +7,7 @@
 - Update dev dependency versions
   - `cambium/cambium.core` to `0.9.2` (TODO: Use GA version)
   - `cambium/cambium.codec-simple` to `0.9.2` (TODO: Use GA version)
-- [Todo] Update RabbitMQ SDK version to `5.2.0`
+- Update RabbitMQ SDK version to `5.2.0`
 
 
 ## 0.4.1 / 2017-October-26
