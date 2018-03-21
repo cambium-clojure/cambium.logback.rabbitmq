@@ -7,7 +7,7 @@
 - Update dev dependency versions
   - `cambium/cambium.core` to `0.9.2` (TODO: Use GA version)
   - `cambium/cambium.codec-simple` to `0.9.2` (TODO: Use GA version)
-- Update RabbitMQ SDK version to `5.2.0`
+- Downgrade RabbitMQ SDK version to `4.5.0` for Java 6/7 compatibility
 
 
 ## 0.4.1 / 2017-October-26
