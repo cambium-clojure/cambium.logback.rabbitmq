@@ -1,6 +1,6 @@
 # cambium.logback.rabbitmq - TODO and Change Log
 
-## [WIP] 0.4.2 / 2018-March-??
+## 0.4.2 / 2018-March-22
 
 - Update cambium.logback.core version to `0.4.2`
 - Downgrade RabbitMQ SDK version to `4.5.0` for Java 6/7 compatibility
