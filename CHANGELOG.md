@@ -3,7 +3,6 @@
 ## [WIP] 0.4.2 / 2018-March-??
 
 - Update cambium.logback.core version to `0.4.2`
-  - [Todo] Use GA version
 - Downgrade RabbitMQ SDK version to `4.5.0` for Java 6/7 compatibility
 
 

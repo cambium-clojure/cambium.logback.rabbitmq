@@ -3,7 +3,7 @@
   :url "https://github.com/cambium-clojure/cambium.logback.rabbitmq"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[cambium/cambium.logback.core "0.4.2-SNAPSHOT"]
+  :dependencies [[cambium/cambium.logback.core "0.4.2"]
                  [com.rabbitmq/amqp-client     "4.5.0"]]
   :java-source-paths ["java-src"]
   :javac-options ["-target" "1.6" "-source" "1.6" "-Xlint:-options"]
@@ -18,5 +18,6 @@
              :c16 {:dependencies [[org.clojure/clojure  "1.6.0"]]}
              :c17 {:dependencies [[org.clojure/clojure  "1.7.0"]]}
              :c18 {:dependencies [[org.clojure/clojure  "1.8.0"]]}
-             :c19 {:dependencies [[org.clojure/clojure  "1.9.0-alpha20"]]}
+             :c19 {:dependencies [[org.clojure/clojure  "1.9.0"]]}
              :dln {:jvm-opts ["-Dclojure.compiler.direct-linking=true"]}})
+
