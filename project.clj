@@ -3,16 +3,16 @@
   :url "https://github.com/cambium-clojure/cambium.logback.rabbitmq"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[cambium/cambium.logback.core "0.4.2"]
-                 [com.rabbitmq/amqp-client     "4.5.0"]]
+  :dependencies [[cambium/cambium.logback.core "0.4.3"]
+                 [com.rabbitmq/amqp-client     "4.11.0"]]
   :java-source-paths ["java-src"]
   :javac-options ["-target" "1.6" "-source" "1.6" "-Xlint:-options"]
   :global-vars {*warn-on-reflection* true
                 *assert* true
                 *unchecked-math* :warn-on-boxed}
   :profiles {:provided {:dependencies [[org.clojure/clojure  "1.5.1"]]}
-             :dev {:dependencies [[cambium/cambium.core "0.9.2"]  ; pulls in [org.slf4j/slf4j-api "1.7.25"]
-                                  [cambium/cambium.codec-simple "0.9.2"]]
+             :dev {:dependencies [[cambium/cambium.core "0.9.3"]  ; pulls in [org.slf4j/slf4j-api "1.7.26"]
+                                  [cambium/cambium.codec-simple "0.9.3"]]
                    :jvm-opts ["-Denable.dummy=true"]}
              :c05 {:dependencies [[org.clojure/clojure  "1.5.1"]]}
              :c06 {:dependencies [[org.clojure/clojure  "1.6.0"]]}
