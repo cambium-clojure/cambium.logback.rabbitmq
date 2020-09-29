@@ -2,7 +2,7 @@
 
 ## [WIP] 0.4.4 / 2020-September-??
 
-- [Todo] Drop support for Clojure 1.5.x
+- Drop support for Clojure 1.5.x
 - [Todo] Update cambium.logback.core to version `0.4.4`
 - [Todo] Update RabbitMQ SDK dependency to version `4.12.0`
 
