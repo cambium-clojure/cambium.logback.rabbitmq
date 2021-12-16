@@ -2,7 +2,7 @@
 
 ## [WIP] 0.4.5 / 2021-December-16
 
-- [Todo] Use cambium.logback.core 0.4.5
+- Update cambium.logback.core to version 0.4.5
 
 
 ## 0.4.4 / 2020-September-30
