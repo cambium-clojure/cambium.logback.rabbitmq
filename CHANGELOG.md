@@ -1,5 +1,10 @@
 # cambium.logback.rabbitmq - TODO and Change Log
 
+## 0.4.5 / 2021-December-16
+
+- Update cambium.logback.core to version 0.4.5
+
+
 ## 0.4.4 / 2020-September-30
 
 - Drop support for Clojure 1.5.x

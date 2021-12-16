@@ -5,7 +5,7 @@ RabbitMQ appender for Logback.
 
 ## Clojars coordinates
 
-`[cambium/cambium.logback.rabbitmq "0.4.4"]`
+`[cambium/cambium.logback.rabbitmq "0.4.5"]`
 
 
 ## Documentation
@@ -23,7 +23,7 @@ $ lein do clean, test
 
 ## License
 
-Copyright © 2017-2020 Shantanu Kumar
+Copyright © 2017-2021 Shantanu Kumar
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
