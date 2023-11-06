@@ -1,4 +1,4 @@
-(defproject cambium/cambium.logback.rabbitmq "0.4.5"
+(defproject cambium/cambium.logback.rabbitmq "0.4.6"
   :description "RabbitMQ appender for Logback"
   :url "https://github.com/cambium-clojure/cambium.logback.rabbitmq"
   :license {:name "Eclipse Public License"
@@ -19,5 +19,6 @@
              :c08 {:dependencies [[org.clojure/clojure  "1.8.0"]]}
              :c09 {:dependencies [[org.clojure/clojure  "1.9.0"]]}
              :c10 {:dependencies [[org.clojure/clojure  "1.10.3"]]}
+             :c11 {:dependencies [[org.clojure/clojure  "1.11.1"]]}
              :dln {:jvm-opts ["-Dclojure.compiler.direct-linking=true"]}}
-  :aliases {"test-all" ["with-profile" "c06,dev:c07,dev:c08,dev:c09,dev:c10,dev" "test"]})
+  :aliases {"test-all" ["with-profile" "c06,dev:c07,dev:c08,dev:c09,dev:c10,dev:c11,dev" "test"]})

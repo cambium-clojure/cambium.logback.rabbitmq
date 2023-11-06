@@ -1,5 +1,10 @@
 # cambium.logback.rabbitmq - TODO and Change Log
 
+## 0.4.6 / 2023-November-06
+
+- Update cambium.logback.core to version 0.4.6
+
+
 ## 0.4.5 / 2021-December-16
 
 - Update cambium.logback.core to version 0.4.5
